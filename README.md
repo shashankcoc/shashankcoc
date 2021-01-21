@@ -1,6 +1,6 @@
-   ## I am Shashank
+   ## Hey👋, I am Shashank
    ## A 20 y/o undergrad student and a passionate fullstack developer
-
+  
 
 
 - 🔭  I'm student at Jaypee University pursuing my Computer Science and Engineering. I have strong research background in blockchain.
