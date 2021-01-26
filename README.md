@@ -12,4 +12,3 @@
        
 - 📫   How to reach me shashanksrivastava@pm.me
 
-       Cheers ! 🍻 
