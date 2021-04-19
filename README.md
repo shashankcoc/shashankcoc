@@ -11,7 +11,3 @@
        I enjoy travelling and exploring new places.
        
 - 📫   How to reach me shashanksrivastava@pm.me
-
-
-#### 💻 Stack I Work With
-
