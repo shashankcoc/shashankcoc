@@ -36,7 +36,7 @@
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 <br><br>
-<hr>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashankcoc&show_icons=true&theme=tokyonight)
 
