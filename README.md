@@ -13,6 +13,8 @@
 - 📫   How to reach me shashanksrivastava@pm.me
 
 
+
+<br>
 <h2> 💻 Tech Stack I work with </h2>
 
 ![C++](http://img.shields.io/badge/-C++-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
@@ -33,7 +35,7 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-
+<br><br>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashankcoc&show_icons=true&theme=tokyonight)
