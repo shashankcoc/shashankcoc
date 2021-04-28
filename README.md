@@ -39,3 +39,8 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashankcoc&show_icons=true&theme=tokyonight)
+
+<hr>
+
+### Visitor Count 
+  ![Visitor Count](https://profile-counter.glitch.me/{shashankcoc}/count.svg)
