@@ -14,9 +14,6 @@
 
 
 
-https://user-images.githubusercontent.com/44526306/126908966-e6a4a991-a2eb-4ce6-b0e1-437a6dd48e48.mp4
-
-
 
 <br>
 <h2> 💻 Tech Stack I work with </h2>
@@ -46,7 +43,9 @@ https://user-images.githubusercontent.com/44526306/126908966-e6a4a991-a2eb-4ce6-
 
 <hr>
 
+https://user-images.githubusercontent.com/44526306/126908966-e6a4a991-a2eb-4ce6-b0e1-437a6dd48e48.mp4
 
+<hr>
 
 ### Visitor Count 
   ![Visitor Count](https://profile-counter.glitch.me/{shashankcoc}/count.svg)
