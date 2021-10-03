@@ -10,9 +10,9 @@
 - 🎒   Apart from a web developer, I enjoy most of my time being outdoors. 
        I enjoy travelling and exploring new places.
        
-- 📫   How to reach me shashanksrivastava@pm.me
+- 📫   How to reach me ? Just Scan The QR Code, save my details and catch up.
 
-
+![QR_Shashank_](https://user-images.githubusercontent.com/44526306/135763044-52c969ef-6350-471b-a5a6-caff47fabe97.png)
 
 
 <br>
