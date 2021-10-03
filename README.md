@@ -14,7 +14,6 @@
 
 ![QR_Shashank_](https://user-images.githubusercontent.com/44526306/135763044-52c969ef-6350-471b-a5a6-caff47fabe97.png)
 
-
 <br>
 <h2> 💻 Tech Stack I work with </h2>
 
