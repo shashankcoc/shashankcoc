@@ -1,9 +1,18 @@
+
+![Black Yellow Modern Programmer LinkedIn Banner(1)](https://user-images.githubusercontent.com/44526306/182673987-76ef9eab-5602-4e69-bd16-38e5fce5893b.png)
+
+
+
+
+
+
+
    ## Hey <img src=https://user-images.githubusercontent.com/44526306/115236026-7ea64b00-a138-11eb-8cc3-6b5edf38ae2b.gif height="30px"> I am Shashank
    ## A 23 y/o Undergrad Student and a Passionate Fullstack Developer
   
 
 
-- 🔭  I'm student at Jaypee University pursuing my Computer Science and Engineering. I have strong research background in blockchain.
+- 🔭  Completed my Bachelor's (CSE) from Jaypee University. I have strong research background in blockchain.
        I'm passionate for design, development and have experience in web development. 
 - ❄   I like to work on cool projects.
        
