@@ -8,18 +8,18 @@
 
 
    ## Hey <img src=https://user-images.githubusercontent.com/44526306/115236026-7ea64b00-a138-11eb-8cc3-6b5edf38ae2b.gif height="30px"> I am Shashank
-   ## A 25 y/o Undergrad Student and a Passionate Fullstack Developer
+   ## A 25 y/o Undergrad Student and a Passionate Full-stack Developer
   
 
 
-- 🔭  Completed my Bachelor's (CSE) from Jaypee University. I have strong research background in blockchain.
-       I'm passionate for design, development and have experience in web development. 
-- ❄   I like to work on cool projects.
+- 🔭  Completed my Bachelor's (CSE) from Jaypee University. I have a strong research background in blockchain.
+       I'm passionate about design and development, and have experience in web development. 
+- ❄   I enjoy working on exciting projects.
        
-- 🎒   Apart from a web developer, I enjoy most of my time being outdoors. 
+- 🎒   Apart from being a developer, I enjoy most of my time being outdoors. 
        I enjoy travelling and exploring new places.
        
-- 📫   How to reach me ? Just Scan The QR Code, save my details and catch up.
+- 📫   How to reach me? Just Scan The QR Code, save my details, and catch up.
 
 ![QR_Shashank_](https://user-images.githubusercontent.com/44526306/135763044-52c969ef-6350-471b-a5a6-caff47fabe97.png)
 
